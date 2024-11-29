@@ -40,7 +40,7 @@ I'm constantly learning and exploring new technologies to solve real-world probl
   - Generated 5 outputs showcasing the trained LoRA in different clothing styles, demonstrating the model’s capabilities in diverse scenarios.
 - 🎮📝 [DecodeIO](https://github.com/rachel-04/DeCodeio):
   - Developed DecodeIO, an interactive word guessing game, using React and Node.js to create a responsive and engaging user interface, increasing accessibility and boosting user engagement by 60% through customizable gameplay across devices.
-  -Designed and deployed a robust interface supporting over 25 unique user interactions daily, integrating JavaScript, HTML5, and CSS3 to deliver seamless performance. Leveraged Webpack for efficient bundling and Jest for automated testing to ensure reliability and scalability.
+  - Designed and deployed a robust interface supporting over 25 unique user interactions daily, integrating JavaScript, HTML5, and CSS3 to deliver seamless performance. Leveraged Webpack for efficient bundling and Jest for automated testing to ensure reliability and scalability.
 - 👩🏾‍💻[DreamBooth of a Person](https://github.com/rachel-04/DreamBoothofaPerson):
   - Fine-tune a generative model to generate images of a specific person in various settings or activities.
   - Curated and re-annotated a dataset of 20 high-quality images using Automatic 1111 and AWS SageMaker, fine-tuning a machine learning model to      improve accuracy by 30% and enhance contextual understanding, utilizing terminal commands and troubleshooting skills.
