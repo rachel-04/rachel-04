@@ -10,7 +10,7 @@ I'm constantly learning and exploring new technologies to solve real-world probl
 
 # 🛠️ Tech Stack
 - **Programming Languages:** Python, C++, SQL, MATLAB, Java, JavaScript, HTML, CSS, C
-- **Machine Learning:** TensorFlow, PyTorch, Linux, AWS SageMaker
+- **Machine Learning:** TensorFlow, PyTorch, Linux, AWS SageMaker, Keras
 - **Libraries & Data Analysis:** R, MongoDB, MySQL, NumPy, Pandas
 - **Project Management:** Agile, GitHub, Notion, Obsidian
 - **Additional Skills:** ARM Assembly, Automation 1111, ComfyUI, Stable Diffusion, FineTuning, API building
